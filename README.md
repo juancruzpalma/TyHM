@@ -7,7 +7,7 @@
 # Repositorio de GitHub
 #### Les dejo el link de mi repositorio haciendo click en la imagen
 
-<a href="">
+<a href="https://github.com/juancruzpalma/TyHM/blob/main/CV%20Juan%20Cruz%20Palma.pdf">
 <img src="">
 </a>
 
