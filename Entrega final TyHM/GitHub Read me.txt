@@ -1,0 +1,19 @@
+En el siguiente link podra encontrar los hipervinculos al material de cada unidad subidos a GitHub.
+
+https://juancruzpalma.github.io/TyHM/  
+
+
+Módulo 1 Producción de Hipertextos          
+  Entrega Total       20 hs   + página                      
+ 
+Módulo 2 Programación en R-Cran           
+  Entrega Total  20 hs       Ejercicios + Caso de aplicación R-Pub  (ejemplo covid)                
+
+
+Módulo 3 Benchmarking                                          
+  Entrega Total  20 hs presentación monografía 20 pag.                        
+
+Módulo 4 y 5 Adhesivos y Documental                    
+  Entrega Total 20 horas Reporte de ensayo y teoría + video                  
+
+
