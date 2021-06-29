@@ -14,5 +14,5 @@
 # Traducción del capítulo 9
 <p>Traducción y resumen sobre la descarbonización</p>
 <a href="https://github.com/juancruzpalma/TyHM/blob/main/Cap_tulo_6-3%20pdf.pdf">
-<img src="https://user-images.githubusercontent.com/86415825/123274044-8c31d580-d4d9-11eb-9452-7f8e4bc3917b.png" alt="Traducción" width"300px">
+<img src="https://github.com/juancruzpalma/TyHM/blob/main/Capitulo.jpg">
 </a>
