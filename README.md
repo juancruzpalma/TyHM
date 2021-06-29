@@ -8,7 +8,7 @@
 #### Les dejo el link de mi repositorio haciendo click en la imagen
 
 <a href="https://github.com/juancruzpalma/TyHM/blob/main/CV%20Juan%20Cruz%20Palma.pdf">
-<img src="https://user-images.githubusercontent.com/86415825/123273728-48d76700-d4d9-11eb-99e1-69a9d8aad14a.png" alt="CV" width"300px">
+<img src="https://github.com/juancruzpalma/TyHM/blob/main/Cv.jpg" alt="CV" width"300px">
 </a>
 
 # Traducción del capítulo 9
